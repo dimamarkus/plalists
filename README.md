@@ -1,5 +1,3 @@
-Here's how I've grouped the songs into genres based on their style and artists:
-
 ### Disco/Funk
 - Plustwo - Melody (1983 Club Vinyl Mix)
 - KC & The Sunshine Band - Get Down Tonight - Tom Moulton Mix
@@ -61,5 +59,3 @@ Here's how I've grouped the songs into genres based on their style and artists:
 - International Soleil Band - Ta Lassa - Hide & Smile Edit
 - Kiki Gyan - Disco Dancer
 - Idris Muhammad - Tasty Cakes
-
-This categorization is based on typical genre attributes of each track, but genres can be quite subjective and overlap, so some tracks could potentially fit into more than one category.
